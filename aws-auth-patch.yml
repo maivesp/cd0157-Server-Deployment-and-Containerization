@@ -4,7 +4,7 @@ data:
    - groups:
       - system:masters
       rolearn: arn:aws:iam::143086015785:role/UdacityFlaskDeployCBKubectlRole
-      username: build
+      username: admin_maivesp
       - groups:
       - system:bootstrappers
       - system:nodes
