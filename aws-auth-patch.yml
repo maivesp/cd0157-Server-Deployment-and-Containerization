@@ -11,9 +11,3 @@ data:
       rolearn: arn:aws:iam::143086015785:role/UdacityFlaskDeployCBKubectlRole
       username: build
 kind: ConfigMap
-metadata:
-  creationTimestamp: "2022-10-04T05:08:10Z"
-  name: aws-auth
-  namespace: kube-system
-  resourceVersion: "1576"
-  uid: 2a5d3b7e-cc3b-4dd0-a073-eb27e7b1d521
